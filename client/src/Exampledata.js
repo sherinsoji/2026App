@@ -1,0 +1,20 @@
+export const UsersData = [
+    {
+        id:1,
+        name:"Ali",
+        email:"ali@gmail.com",
+        password:"12345",
+    },
+    {
+        id:2,
+        name:"Hilal",
+        email:"hilal@gmail.com",
+        password:"12345",
+    },
+    {
+        id:3,
+        name:"Zaid",
+        email:"zaid@gmail.com",
+        password:"12345",
+    }
+]
